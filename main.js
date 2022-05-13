@@ -1,3 +1,9 @@
+// Javascript Object
+const data = {
+    id: 1,
+    name: "Geeks",
+    profession: "developer"
+}
 
 const download = function (data) {
  
